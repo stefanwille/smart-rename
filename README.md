@@ -1,3 +1,3 @@
 # Smart Rename 
 
-Serves **Smart Rename** release downloads. 
+The purpose of this repo is to serve **Smart Rename** release downloads. 
